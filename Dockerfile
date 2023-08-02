@@ -12,6 +12,7 @@ RUN apk add --no-cache \
     ipcalc \
     iputils \
     mtr \
+    net-snmp-tools \
     netcat-openbsd \
     nmap \
     sipcalc \

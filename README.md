@@ -21,6 +21,7 @@ Included packages:
 - ipcalc
 - iputils
 - mtr
+- net-snmp-tools
 - netcat-openbsd
 - nmap
 - sipcalc
