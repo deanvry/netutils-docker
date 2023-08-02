@@ -4,6 +4,7 @@ A small container image to test Networking.
 
 Supported arch:
 - linux/amd64
+- linux/arm64
 
 Included packages:
 - bind-tools
@@ -29,5 +30,5 @@ Included packages:
 How to get image:
 
 ```sh
-docker pull ghcr.io/deanvry/netutils:main
+docker pull ghcr.io/deanvry/netutils
 ```
