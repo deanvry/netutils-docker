@@ -8,6 +8,7 @@ RUN apk add --no-cache \
     dog \
     gping \
     htop \
+    inetutils-telnet \
     ipcalc \
     iputils \
     mtr \
@@ -17,6 +18,7 @@ RUN apk add --no-cache \
     screen \
     tcpdump \
     traceroute \
+    openssh-client \
     openssl \
     whois \
     wget

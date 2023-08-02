@@ -11,6 +11,7 @@ Included packages:
 - dog
 - gping
 - htop
+- inetutils-telnet
 - ipcalc
 - iputils
 - mtr
@@ -20,6 +21,7 @@ Included packages:
 - screen
 - tcpdump
 - traceroute
+- openssh
 - openssl
 - whois
 - wget
