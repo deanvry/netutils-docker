@@ -2,7 +2,7 @@
 
 [![Build Docker Image](https://github.com/deanvry/netutils-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/deanvry/netutils-docker/actions/workflows/docker-publish.yml)
 
-A small container image to test Networking.
+A container image to test Networking.
 
 Supported arch:
 - linux/amd64
