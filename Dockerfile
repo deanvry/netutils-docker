@@ -5,11 +5,14 @@ FROM alpine:3.18
 RUN apk add --no-cache \
     bind-tools \
     curl \
+    dhclient \
     dog \
     gping \
     htop \
     inetutils-telnet \
     ipcalc \
+    iperf \
+    iperf3 \
     iputils \
     mtr \
     net-snmp-tools \
@@ -17,6 +20,7 @@ RUN apk add --no-cache \
     nmap \
     sipcalc \
     screen \
+    socat \
     tcpdump \
     traceroute \
     openssh-client \
