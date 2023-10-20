@@ -14,11 +14,14 @@ Supported arch:
 Included packages:
 - bind-tools
 - curl
+- dhclient
 - dog
 - gping
 - htop
 - inetutils-telnet
 - ipcalc
+- iperf
+- iperf3
 - iputils
 - mtr
 - net-snmp-tools
