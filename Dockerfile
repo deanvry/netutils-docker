@@ -1,5 +1,5 @@
 # use alpine as base image
-FROM alpine:3.18
+FROM alpine:3.20
 
 # install network utilities
 RUN apk add --no-cache \
